@@ -11,7 +11,7 @@ class sample
 if(c=='a'||c=='e'||c=='i'||c=='o'||c=='u')
 cout<< "it is vowel";
 else
-cout<< "it is not vowel";
+cout<< "it is consonant";
 }
 };
 int main()
